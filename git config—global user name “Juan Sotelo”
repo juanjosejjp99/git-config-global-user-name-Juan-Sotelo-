@@ -8,3 +8,7 @@ user.name=Juan Sotelo
 user.email=juanjosotelo30@gmail.com
   cd Desktop/MiRepo/  
   git init
+Cloning into 'mirepo'...
+Password for 'git clone https://Juanjose1999@bitbucket.org/Juanjose1999/madero.git':
+warning: You appear to have cloned an empty repository
+Checking connectivity... done.
