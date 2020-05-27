@@ -12,3 +12,8 @@ Cloning into 'mirepo'...
 Password for 'git clone https://Juanjose1999@bitbucket.org/Juanjose1999/madero.git':
 warning: You appear to have cloned an empty repository
 Checking connectivity... done.
+echo "#Título de mi primer archivo  Contenido de mi primer archivo" >> prueba.md
+git status
+git add prueba.md
+git commit-m "mi primer commit"
+git push origin master
